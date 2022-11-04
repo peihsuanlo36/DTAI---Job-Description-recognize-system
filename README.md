@@ -1,6 +1,6 @@
 # 1. Project name
 Job Description recognize system
-
+(final project of design thinking & artificial intelligence)
 
 
 
